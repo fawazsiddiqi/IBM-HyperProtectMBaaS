@@ -1,4 +1,4 @@
-FROM node:10
+FROM s390x/node:10
 
 # Create app directory
 WORKDIR /usr/app/carekit-hyperprotect/
